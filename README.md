@@ -54,15 +54,13 @@ END
 
 #### Output Table
 
+
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
-
-#### Manual Calculations
-
-(Add your calculation here)
+|       1000     01       |1004   04                 |
+|       1001     02       |1005   06                |
+|       1002     03      |                |
+|       1003     04      |              |
 
 ---
 
@@ -106,14 +104,8 @@ END
 
 
 #### Output Table
+<img width="637" height="200" alt="image" src="https://github.com/user-attachments/assets/fdf31393-ad75-42e7-b9d7-12fbb61eb3e9" />
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
-
-#### Manual Calculations
-
-(Add your calculation here)
 
 ---
 
@@ -156,14 +148,7 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
-
-#### Manual Calculations
-
-(Add your calculation here)
-
+e<img width="617" height="205" alt="image" src="https://github.com/user-attachments/assets/f0c8111f-483d-4898-acb5-d2c8fd487ee7" />
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -201,13 +186,9 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+<img width="485" height="200" alt="image" src="https://github.com/user-attachments/assets/af80cde8-fe8d-48ea-95bc-a3495a047f61" />
 
-#### Manual Calculations
 
-(Add your calculation here)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
